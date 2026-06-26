@@ -10,6 +10,10 @@ Graphite is a local-first bootstrap kit for building protocol servers where onto
 ontology + protocol objects + signed gates + queryable graph state
 ```
 
+=========
+SIMILAR/ALIGNED PROJECTS: https://github.com/biolink/kgx https://monarchinitiative.org/
+========
+
 It is designed for teams who want their server to understand not only data, but the meaning, status, source, and authority of the things being communicated.
 
 ## What It Is
