@@ -5,9 +5,13 @@
   "description": "ontology-based server communications bootstrap kit",
   "type": "module",
   "scripts": {
-    "check": "node scripts/check.mjs"
+    "check": "node scripts/check.mjs",
+    "validate": "node scripts/validate-consistency.mjs"
   },
   "engines": {
     "node": ">=18"
+  },
+  "dependencies": {
+    "yaml": "^2.8.4"
   }
 }

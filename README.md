@@ -83,7 +83,7 @@ Until `1.0`:
 - do not claim the foundation runs on Graphite,
 - do not restructure the foundation around Graphite,
 - do not treat Graphite as stable API,
-- do not use Graphite informally in future sessions as if adopted.
+- do not invoke Graphite informally in future sessions as if adopted.
 
 Current role:
 
