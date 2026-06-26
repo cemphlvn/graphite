@@ -1,0 +1,14 @@
+{
+  "name": "@gsm-foundation/graphite",
+  "version": "0.0.0-incubating",
+  "private": true,
+  "description": "local-first epistemic protocol server pattern incubated by the Gelişim Sanat Merkezi foundation",
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
+
