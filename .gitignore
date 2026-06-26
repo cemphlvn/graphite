@@ -1,0 +1,31 @@
+# dependencies
+node_modules/
+
+# environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# logs
+*.log
+npm-debug.log*
+
+# build output
+dist/
+build/
+out/
